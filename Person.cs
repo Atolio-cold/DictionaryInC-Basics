@@ -14,16 +14,51 @@ class Person
         id.Add("Marcus", 38);
         id.Add("Joe", 24);
 
-        if (id.ContainsKey("Anna"))
+        void DisplayAge(Dictionary<string, int> dictionary, string name)
         {
 
-            Console.WriteLine($"Person Anna, Age: {id["Anna"]}");
-        }
-        else
-        {
+            if (dictionary.ContainsKey(name))
+            {
 
-            Console.WriteLine("Person  not found in the dictionary.");
+                Console.WriteLine($"Person: {name}, Age: {dictionary[name]}");
+            }
+            else
+            {
+                Console.WriteLine($"Person {name} not found in the dictionary.");
+            }
         }
+        // Task 1
+        DisplayAge(id, "Anna");
+
+        // Task 2
+        DisplayAge(id, "Mark");
+
 
     }
 }
+
+
+
+
+
+
+// if (id.ContainsKey("Anna"))
+// {
+
+//     Console.WriteLine($"Person Anna, Age: {id["Anna"]}");
+// }
+// else
+// {
+
+//     Console.WriteLine("Person not found in the dictionary.");
+// }
+
+
+// //Task 2 
+
+// if (id.ContainsKey("Mark")){
+//     Console.WriteLine($"Person Mark, Age: {id["Mark"]}");
+// }else {
+//     Console.WriteLine("Person not found in the dictionary.");
+// }
+

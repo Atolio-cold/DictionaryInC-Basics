@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\bin\Debug\net8.0\BasicCalculatorCurrency.exe
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\bin\Debug\net8.0\BasicCalculatorCurrency.deps.json
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\bin\Debug\net8.0\BasicCalculatorCurrency.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\bin\Debug\net8.0\BasicCalculatorCurrency.dll
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\bin\Debug\net8.0\BasicCalculatorCurrency.pdb
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\BasicCalculatorCurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\BasicCalculatorCurrency.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\BasicCalculatorCurrency.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\BasicCalculatorCurrency.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\BasicCalculatorCurrency.dll
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\refint\BasicCalculatorCurrency.dll
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\BasicCalculatorCurrency.pdb
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\BasicCalculatorCurrency.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\BasicCalculatorCurrency\obj\Debug\net8.0\ref\BasicCalculatorCurrency.dll
